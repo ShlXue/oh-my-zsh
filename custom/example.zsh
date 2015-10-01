@@ -3,3 +3,6 @@
 #
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
+
+# append /usr/local/sbin to PATH for brew
+PATH=$PATH:/usr/local/sbin
